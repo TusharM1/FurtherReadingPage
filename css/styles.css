@@ -58,3 +58,7 @@ p {
 	color: #313639;
 	line-height: 30px;
 }
+
+.references {
+	justify-content: normal;
+}
